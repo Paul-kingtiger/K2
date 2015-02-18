@@ -1,0 +1,25 @@
+{
+"NAME":"K2",
+"URL":"http://ksp-avc.cybutek.net/version.php?id=120",
+"DOWNLOAD":"https://github.com/Paul-kingtiger/K2/releases",
+"CHANGE_LOG_URL":"http://forum.kerbalspaceprogram.com/threads/110896-K2-like-64k-but-smaller%21",
+"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":0,
+		"PATCH":90,
+		"BUILD":1
+	},
+"KSP_VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":90,
+		"PATCH":0
+	},
+"KSP_VERSION_MIN":
+	{
+		"MAJOR":0,
+		"MINOR":25,
+		"PATCH":0
+	}
+}
