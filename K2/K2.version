@@ -5,10 +5,10 @@
 "CHANGE_LOG_URL":"http://forum.kerbalspaceprogram.com/threads/110896-K2-like-64k-but-smaller%21",
 "VERSION":
 	{
-		"MAJOR":0,
+		"MAJOR":1,
 		"MINOR":0,
 		"PATCH":90,
-		"BUILD":2
+		"BUILD":0
 	},
 "KSP_VERSION":
 	{
